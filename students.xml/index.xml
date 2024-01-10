@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+<Cosmatic:product S.NO="23" xmlns:Cosmatic="www.cosmatic.com">
+    <Cosmatic:Name>Lotion</Cosmatic:Name>
+    <Cosmatic:Company>Ponds</Cosmatic:Company>
+    <Cosmatic:price>420</Cosmatic:price>
+    <Cosmatic:description>Helps to provide soft and smooth skin.</Cosmatic:description>
+</Cosmatic:product>
+<GenralItems:product Sr.NO="55" xmlns:GenralItems="www.GenralItems.com">
+    <GenralItems:Name>Cold drink</GenralItems:Name>
+    <GenralItems:Company>Dew</GenralItems:Company>
+    <GenralItems:price>130</GenralItems:price>
+    <GenralItems:description>Dar K Agay jeet hai</GenralItems:description>
+</GenralItems:product> 
+<GenralItems:product Sr.NO="56" xmlns:GenralItems="www.GenralItems.com">
+    <GenralItems:Name>Cold Drink</GenralItems:Name>
+    <GenralItems:Company>String</GenralItems:Company>
+    <GenralItems:price>150</GenralItems:price>
+    <GenralItems:description>life ka scene on</GenralItems:description>
+</GenralItems:product>     
+</Products>
